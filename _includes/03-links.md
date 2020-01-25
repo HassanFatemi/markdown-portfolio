@@ -1,1 +1,1 @@
-[Github Profile] (https://github.com/HassanFatemi)
+[Github Profile](https://github.com/HassanFatemi)
