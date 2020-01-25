@@ -1,4 +1,5 @@
 # My favorites
 - walking
 - dancing
-- leeping
+- sleeping
+- reading
